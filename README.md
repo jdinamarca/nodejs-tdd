@@ -1,2 +1,2 @@
 # nodejs-tdd
-Practica backend en nodejs y uso de TDD
+Practice creating a backend using nodejs with TDD using supertest and jest
